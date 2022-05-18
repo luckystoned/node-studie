@@ -1,0 +1,8 @@
+note-app/node_modules
+note-app/build
+
+weather-app/node_modules
+weather-app/build
+
+web-servers/node_modules
+web-servers/build
